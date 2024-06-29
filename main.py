@@ -1,7 +1,7 @@
 # Zadanie 1 - lista zakupów, słownik i kapitalizacja
 shopping_dict = {
   "piekarnia": ["chleb", "pączek", "bułki", "gniazdko"],
-  "warzywniak": ["marchew", "seler", "rukola", "por", "pietruszka"]
+  "warzywniak": ["marchew", "seler", "rukola", "por", "pietruszka", "kalafior"]
 }
 
 i = 0
@@ -13,4 +13,4 @@ for shop, products in shopping_dict.items():
     for product in products:
         i += 1
 
-print(f"W sumie kupuję {i} produktów")
+print(f"W sumie kupuję {i} produktów, z czego z włoszczyzny będzie pyszna zupa, na którą gorąco szanownego Mentora zapraszam :)")
