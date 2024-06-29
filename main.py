@@ -1,7 +1,7 @@
 # Zadanie 1 - lista zakupów, słownik i kapitalizacja
 shopping_dict = {
   "piekarnia": ["chleb", "pączek", "bułki", "gniazdko"],
-  "warzywniak": ["marchew", "seler", "rukola"]
+  "warzywniak": ["marchew", "seler", "rukola", "por", "pietruszka"]
 }
 
 i = 0
